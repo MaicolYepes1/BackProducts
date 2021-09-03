@@ -1,0 +1,12 @@
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\bin\Debug\net5.0\Test.MODELS.deps.json
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\bin\Debug\net5.0\Test.MODELS.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\bin\Debug\net5.0\ref\Test.MODELS.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\bin\Debug\net5.0\Test.MODELS.pdb
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\obj\Debug\net5.0\Test.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\obj\Debug\net5.0\Test.MODELS.AssemblyInfoInputs.cache
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\obj\Debug\net5.0\Test.MODELS.AssemblyInfo.cs
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\obj\Debug\net5.0\Test.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\obj\Debug\net5.0\Test.MODELS.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\obj\Debug\net5.0\ref\Test.MODELS.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\obj\Debug\net5.0\Test.MODELS.pdb
+C:\Users\Maico\source\repos\Test_BackEnd\Test.MODELS\obj\Debug\net5.0\Test.MODELS.csproj.AssemblyReference.cache

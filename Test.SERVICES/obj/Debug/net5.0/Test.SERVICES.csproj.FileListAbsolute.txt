@@ -1,0 +1,17 @@
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\bin\Debug\net5.0\Test.SERVICES.deps.json
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\bin\Debug\net5.0\Test.SERVICES.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\bin\Debug\net5.0\ref\Test.SERVICES.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\bin\Debug\net5.0\Test.SERVICES.pdb
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\Test.SERVICES.csproj.AssemblyReference.cache
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\Test.SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\Test.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\Test.SERVICES.AssemblyInfo.cs
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\Test.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\Test.SERVICES.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\ref\Test.SERVICES.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\Test.SERVICES.pdb
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\bin\Debug\net5.0\Test.INFRA.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\bin\Debug\net5.0\Test.MODELS.dll
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\bin\Debug\net5.0\Test.INFRA.pdb
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\bin\Debug\net5.0\Test.MODELS.pdb
+C:\Users\Maico\source\repos\Test_BackEnd\Test.SERVICES\obj\Debug\net5.0\Test.SERVICES.csproj.CopyComplete
